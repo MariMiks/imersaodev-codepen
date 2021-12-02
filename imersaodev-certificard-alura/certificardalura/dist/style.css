@@ -1,0 +1,93 @@
+body {
+  background-color: #76daff; 
+  background-image: url('https://images4.alphacoders.com/725/725594.jpg');
+  background-size: cover;
+  font-family: system-ui;
+}
+
+section {
+  -webkit-box-shadow: 8px 11px 16px 1px rgba(0,0,0,0.46); 
+  box-shadow: 8px 11px 16px 1px rgba(0,0,0,0.46);
+  display: block;
+  max-height: 590px;
+  max-width: 550px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+section h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+section header {
+  max-height: 95px;
+  background-image: url(https://cutewallpaper.org/21/yugioh-vrains-background/Backgrounds,-Textures,-and-Templates-on-Yu-Gi-Oh-CYBOTIX-.png);
+  background-size: cover;
+  border-radius: 10px;
+}
+
+div {
+  margin: 15px;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: #7e5a98;
+}
+
+div h2 {
+  text-align: center;
+}
+
+a.link-projects:link, a.link-projects:visited {
+  background-color: #2e9dcd;
+  color: #ffffff;
+  padding: 2px 5px;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 5px
+}
+
+a.link-projects:hover, a.link-projects:active {
+  background-color: #fe8aad;
+  text-decoration: none;
+}
+
+.aluraflix {
+  background-color: #2e9dcd;
+  color: #ffffff;
+  border-radius: 10px;
+  max-width: 100px;
+  margin-bottom: 5px;
+}
+/**.link-projects {
+ margin-bottom: 10px;
+ padding: 5px;
+ border-radius: 10px;
+ max-width: 100px;
+ max-height: 20px;
+ background-color: #fe8aad;
+ color: #eaf8fb;
+ text-align: center;
+}
+**/
+
+
+.foto {
+  width: 150px;
+  height: 150px;
+  border: 10px solid #ffffff;
+  border-radius: 100%;
+  display: block;
+  margin: auto auto;
+  transform: translateY(-50%);
+}
+
+.page-logo {
+  width: 100px;
+}
