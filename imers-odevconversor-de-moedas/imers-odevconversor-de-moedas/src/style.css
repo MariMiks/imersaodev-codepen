@@ -1,0 +1,36 @@
+body {
+  font-family: system-ui;
+  background-image:linear-gradient(to left, #ff3558, #fdd54f);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+  font-size: 40px;
+  padding: 90px;
+  height: 200vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 50 0 50px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+  font-size: 30px;
+}
+
+.page-logo {
+  width: 400px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
